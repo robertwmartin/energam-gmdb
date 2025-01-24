@@ -29,4 +29,5 @@ Additional supplements have also been acquired for use on Energam. These provide
 ## Navigation ##
 - Classes and Subclasses
 - Races / Species
+- Supplements
 
