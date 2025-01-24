@@ -38,9 +38,27 @@
 |            | PHB 2024  | Trickery Domain | Tier 1 |
 |            | TCoE      | Twilight Domain | Tier 1 |
 |            | PHB 2024  | War Domain | Tier 1 |
-| Ghost?     | TAG?      | x        | Partial              | 
-| Illrigger  | MCDM      | x        | Full                 |
-
+| Druid      | SCGD      | Circle of Contamination | Tier 2 |
+|            | TCoE      | Circle of Spores | Tier 1 |
+|            |           | Circle of Stars | Tier 1 |
+|            | SRD 5.1   | Circle of the Land | Tier 1 |
+|            | PHB 2024  | Circle of the Land | Tier 1 |
+|            |           | Circle of the Moon | Tier 1 | 
+|            |           | Circle of the Sea | Tier 1 | 
+|            |           | Circle of the Stars | Tier 1 |
+|            | TCoE      | Circle of Wildfire | Tier 1 | 
+| Fighter    | PHB 2024  | Battle Master | Tier 1 |
+|            | SRD 5.1   | Champion | Tier 1 |
+|            | PHB 2024  | Champion | Tier 1 |
+|            | SCGD      | Commander | Tier 2 | 
+|            | PHB 2024  | Eldritch Knight | Tier 1 |
+|            |           | Psi Warrior | Tier 1 |
+|            | TCoE      | Psi Warrior | Tier 1 | 
+|            |           | Rune Knight | Tier 1 |
+| Illrigger  | MCDM      | Architect of Ruin | Tier 2 |
+|            |           | Painkiller | Tier 2 | 
+|            |           | Shadowmaster | Tier 2 |
+| Ghost?     | TAG?      | x        | Partial              |
 
 ### Notes on the Class / Subclass table ##
 - If a line does not have an entry in the **Class Name** or **Source** column, that indicates it is the same Class or Source as the previous entry
