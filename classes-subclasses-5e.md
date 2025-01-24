@@ -8,6 +8,7 @@
 |            |           | z        | Full                 |       |
 | Barbarian  | PHB 2024  | x        | Full                 |       |
 | Ghost?     | TAG?      | x        | Partial              |       | 
+| Illrigger  | MCDM      | x        | Full                 |       |
 
 
 ## Sources ##
