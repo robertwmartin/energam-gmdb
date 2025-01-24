@@ -67,6 +67,12 @@
 |            | TCoE      | Way of the Astral Self | Tier 1 |
 |            | SRD 5.1   | Way of the Open Hand | Tier 1 |
 |            | SCGD      | Way of the Serpent | Tier 1 |
+| Mystic     | RoS       | Staff Mage | Tier 2 | 
+|            |           | Symbolist | Tier 2 | 
+|            |           | Theurg | Tier 2 | 
+|            |           | Troll Singer | Tier 2 |
+|            |           | Witch | Tier 2 | 
+|            |           | Wizard | Tier 2 | 
 | Paladin    | SRD 5.1   | Oath of Devotion | Tier 1 | 
 |            | PHB 2024  | Oath of Devotion | Tier 1 | 
 |            |           | Oath of Glory | Tier 1 | 
@@ -91,6 +97,11 @@
 |            | TCoE      | Soulknife | Tier 1 |
 |            | SRD 5.1   | Thief | Tier 1 | 
 |            | PHB 2024  | Thief | Tier 1 | 
+| Scoundrel  | RoS       | Guild Thief | Tier 2 | 
+|            |           | Sapper | Tier 2 | 
+|            |           | Spy | Tier 2 |
+|            |           | Thug | Tier 2 |
+|            |           | Treasure-hunter | Tier 2 
 | Sorcerer   | TCoE      | Aberrant Mind | Tier 1 |
 |            | PHB 2024  | Aberrant Sorcery | Tier 1 | 
 |            |           | Clockwork Sorcery | Tier 1 | 
@@ -99,6 +110,31 @@
 |            | SRD 5.1   | Draconic Bloodline | Tier 1 | 
 |            | PHB 2024  | Draconic Sorcery | Tier 1 | 
 |            |           | Wild Magic Sorcery | Tier 1 |
+| Warlock    | PHB 2024  | Archfey Patron | Tier 1 |
+|            |           | Celestial Patron | Tier 1 |
+|            |           | Fiend Patron | Tier 1 | 
+|            |           | Great Old One Patron | Tier 1 | 
+|            | SCGD      | The Cosmic | Tier 2 |
+|            | TCoE      | The Fathomless | Tier 1 |
+|            | SRD 5.1   | The Fiend | Tier 1 | 
+|            | SCGD      | The Flesh | Tier 2 |
+|            | TCoE      | The Genie | Tier 1 | 
+| Warrior    | RoS       | Beserker | Tier 2 | 
+|            |           | Duelist | Tier 2 | 
+|            |           | Knight | Tier 2 | 
+|            |           | Rune Smith | Tier 2 | 
+|            |           | Tattooed Fighter | Tier 2 | 
+|            |           | Templar | Tier 2 | 
+|            |           | Weapon Master | Tier 2 |
+|            |           | Wrathguard | Tier 2 |
+| Wizard     | PHB 2024  | Abjurer | Tier 1 | 
+|            | TCoE      | Bladesinging | Tier 1 | 
+|            | PHB 2024  | Diviner | Tier 1 |
+|            |           | Evoker | Tier 1 |
+|            |           | Illusionist | Tier 1 | 
+|            | SCGD      | Malfeasant | Tier 2 | 
+|            | TCoE      | Order of Scribes | Tier 1 |
+|            | SRD 5.1   | School of Evocation | Tier 1 |
 
 
 
@@ -108,8 +144,9 @@
 - If a line does not have an entry in the **Class Name** or **Source** column, that indicates it is the same Class or Source as the previous entry
 
 ### Sources ###
-- MCDM - refers to the MCDM custom class Illrigger (link)
+- MCDM - refers to the third-party custom class Illrigger from MCDM (link)
 - PHB 2024 - refers to the official 2024 version of the Player's Handbook (link)
+- RoS - refers to the third-party supplement Ruins of Symbaroum from Free League (link)
 - SCGD - refers to Sebastian Crowe's Guide to Drakkenheim (link)
 - SRD 5.1 - refers to the version 5.1 of the 5e System Reference Document (link)
 - TCoE - refers to the official Tasha's Cauldron of Everything (link)
