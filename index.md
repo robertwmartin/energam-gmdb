@@ -1,4 +1,4 @@
-# What is available to you as a player? #
+ # What is available to you as a player? #
 To start, let's set up a few definitions.
 
 - *Energam* - Energam is an invitation-only community of individuals interested in playing tabletop roleplaying games (TTRPG). 
@@ -6,7 +6,7 @@ To start, let's set up a few definitions.
 - *Available on Energam* or similar statements - refers to the games that we play in the Energam community.
 
 What this means is simply that once you are part of Energam, you will be able to play in games that are available using the various resources provided to you. 
-
+  
 
 ## Systems ##
 The only game system currently available on Energam is 5e.
@@ -26,7 +26,7 @@ In addition to TCoE, PHB 2024, and SRD 5.1, Energam has access to other legacy s
 ## Supplements ##
 Additional supplements have also been acquired for use on Energam. These provide several additional player options including classes, subclasses, races / species, spells, and items. These should be considered "tier 2" options since the level of support and updates will not be as good as the official sourcebooks listed above. 
 
-##Navigation##
+## Navigation ##
 - Classes and Subclasses
 - Races / Species
 
