@@ -83,8 +83,22 @@
 |            | PHB 2024  | Hunter | Tier 1 | 
 |            | TCoE      | Swarmkeeper | Tier 1 | 
 |            | SCGD      | Urban Ranger | Tier 2 |
-
-
+| Rogue      | PHB 2024  | Arcane Trickster | Tier 1 | 
+|            |           | Assassin | Tier 1 | 
+|            | TCoE      | Phantom | Tier 1 | 
+|            | SCGD      | Smuggler | Tier 2 | 
+|            | PHB 2024  | Soulknife | Tier 1 | 
+|            | TCoE      | Soulknife | Tier 1 |
+|            | SRD 5.1   | Thief | Tier 1 | 
+|            | PHB 2024  | Thief | Tier 1 | 
+| Sorcerer   | TCoE      | Aberrant Mind | Tier 1 |
+|            | PHB 2024  | Aberrant Sorcery | Tier 1 | 
+|            |           | Clockwork Sorcery | Tier 1 | 
+|            | TCoE      | Clockwork Soul | Tier 1 |
+|            | SCGD      | Delerium Soul | Tier 2 |
+|            | SRD 5.1   | Draconic Bloodline | Tier 1 | 
+|            | PHB 2024  | Draconic Sorcery | Tier 1 | 
+|            |           | Wild Magic Sorcery | Tier 1 |
 
 
 
@@ -102,8 +116,9 @@
 - [add T. A. Gray lines here]  (link)
 
 ### Implementation Level ###
-- Tier 1 - means full character creation and levelling is available, and the Class or Subclass is supported through official channels external to Energam
-- Tier 2 - means full character creation and levelling is available, but this Class or Subclass is implemented via Energam based on a purchased supplement and not through official channels
+- Tier 1 - means full character creation and levelling is available, and the Class or Subclass is supported through official channels
+- Tier 2 - means full character creation and levelling is available, but the Class or Subclass is supported through a third-party vendor and not the official channels
+- Tier 3 - means full character creation and levelling is available, but this Class or Subclass is implemented via Energam based on a purchased supplement and not through official channels or a third-party vendor
 - Incomplete - means the implemenation is a work in progress. Character creation might be available but levelling may not work or may only work to a certain level, for example
 - Not Started - means the supplement for this Class or Subclass has been purchased but work to implement it in Energam has not yet started
 
