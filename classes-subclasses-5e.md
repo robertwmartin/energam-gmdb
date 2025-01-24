@@ -67,15 +67,24 @@
 |            | TCoE      | Way of the Astral Self | Tier 1 |
 |            | SRD 5.1   | Way of the Open Hand | Tier 1 |
 |            | SCGD      | Way of the Serpent | Tier 1 |
+| Paladin    | SRD 5.1   | Oath of Devotion | Tier 1 | 
+|            | PHB 2024  | Oath of Devotion | Tier 1 | 
+|            |           | Oath of Glory | Tier 1 | 
+|            | TCoE      | Oath of Glory | Tier 1 | 
+|            | SCGD      | Oath of Hexes | Tier 2 | 
+|            | PHB 2024  | Oath of the Ancients | Tier 1 |
+|            | TCoE      | Oath of the Watchers | Tier 1 | 
+|            | PHB 2024  | Oath of Vengeance | Tier 1 |
+
 
 
 
 | Ghost?     | TAG?      | x        | Partial              |
 
-### Notes on the Class / Subclass table ##
+### How to read the Class / Subclass table ###
 - If a line does not have an entry in the **Class Name** or **Source** column, that indicates it is the same Class or Source as the previous entry
 
-#### Sources ####
+### Sources ###
 - MCDM - refers to the MCDM custom class Illrigger (link)
 - PHB 2024 - refers to the official 2024 version of the Player's Handbook (link)
 - SCGD - refers to Sebastian Crowe's Guide to Drakkenheim (link)
@@ -83,7 +92,7 @@
 - TCoE - refers to the official Tasha's Cauldron of Everything (link)
 - [add T. A. Gray lines here]  (link)
 
-#### Implementation Level ####
+### Implementation Level ###
 - Tier 1 - means full character creation and levelling is available, and the Class or Subclass is supported through official channels external to Energam
 - Tier 2 - means full character creation and levelling is available, but this Class or Subclass is implemented via Energam based on a purchased supplement and not through official channels
 - Incomplete - means the implemenation is a work in progress. Character creation might be available but levelling may not work or may only work to a certain level, for example
