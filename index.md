@@ -26,5 +26,4 @@ In addition to TCoE, PHB 2024, and SRD 5.1, Energam has access to other legacy s
 ## Supplements ##
 Additional supplements have also been acquired for use on Energam. These provide several additional player options including classes, subclasses, races / species, spells, and items. These should be considered "tier 2" options since the level of support and updates will not be as good as the official sourcebooks listed above. 
 
-## Classes ## 
 
