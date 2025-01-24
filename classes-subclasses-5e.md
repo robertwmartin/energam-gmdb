@@ -21,12 +21,22 @@
 |            | PHB 2024  | Path of the World Tree | Tier 1 |
 |            | PHB 2024  | Path of the Zealot | Tier 1 |
 |            | PHB 2024  | Path of Wild Magic | Tier 1 |
-
+| Bard       | TCoE      | College of Creation | Tier 1 |
+|            | PHB 2024  | College of Dance | Tier 1 |
+|            | SCGD      | College of Doomsayers | Tier 2 | 
+|            | TCoE      | College of Eloquence | Tier 1 |
+|            | PHB 2024  | College of Glamor | Tier 1 | 
+|            | SRD 5.1   | College of Lore | Tier 1 |
+|            | PHB 2024  | College of Lore | Tier 1 |
+|            | PHB 2024  | College of Valor | Tier 1 |
 | Ghost?     | TAG?      | x        | Partial              | 
 | Illrigger  | MCDM      | x        | Full                 |
 
 
-## Sources ##
+### Notes on the Class / Subclass table ##
+- If a line does not have an entry in the **Class Name** or **Source** column, that indicates it is the same Class or Source as the previous entry
+
+#### Sources ####
 - MCDM - refers to the MCDM custom class Illrigger (link)
 - PHB 2024 - refers to the official 2024 version of the Player's Handbook (link)
 - SCGD - refers to Sebastian Crowe's Guide to Drakkenheim (link)
@@ -34,7 +44,7 @@
 - TCoE - refers to the official Tasha's Cauldron of Everything (link)
 - [add T. A. Gray lines here]  (link)
 
-## Implementation Level ##
+#### Implementation Level ####
 - Tier 1 - means full character creation and levelling is available, and the Class or Subclass is supported through official channels external to Energam
 - Tier 2 - means full character creation and levelling is available, but this Class or Subclass is implemented via Energam based on a purchased supplement and not through official channels
 - Incomplete - means the implemenation is a work in progress. Character creation might be available but levelling may not work or may only work to a certain level, for example
