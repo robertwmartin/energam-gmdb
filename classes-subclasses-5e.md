@@ -1,6 +1,6 @@
 # 5e Classes and Subclasses #
 
-| **Class Name** | **Source**    | *Subclass* | *Implementation Level* |
+| *Class Name* | *Source*  | *Subclass* | *Implementation Level* |
 |------------|-----------|----------|----------------------|
 | Apothecary | SCGD      | Alienist | Tier 2  |
 |            |           | Chemist  | Tier 2  |
@@ -16,11 +16,11 @@
 |            | SRD 5.1   | Path of the Beserker | Tier 1 |
 |            | PHB 2024  | Path of the Beserker | Tier 1 |
 |            | SCGD      | Path of the Haze Ranger | Tier 2 |
-|            | SCGD      | Path of the Old Gods | Tier 2 |
+|            |           | Path of the Old Gods | Tier 2 |
 |            | PHB 2024  | Path of the Wild Heart | Tier 1 | 
-|            | PHB 2024  | Path of the World Tree | Tier 1 |
-|            | PHB 2024  | Path of the Zealot | Tier 1 |
-|            | PHB 2024  | Path of Wild Magic | Tier 1 |
+|            |           | Path of the World Tree | Tier 1 |
+|            |           | Path of the Zealot | Tier 1 |
+|            |           | Path of Wild Magic | Tier 1 |
 | Bard       | TCoE      | College of Creation | Tier 1 |
 |            | PHB 2024  | College of Dance | Tier 1 |
 |            | SCGD      | College of Doomsayers | Tier 2 | 
@@ -28,7 +28,16 @@
 |            | PHB 2024  | College of Glamor | Tier 1 | 
 |            | SRD 5.1   | College of Lore | Tier 1 |
 |            | PHB 2024  | College of Lore | Tier 1 |
-|            | PHB 2024  | College of Valor | Tier 1 |
+|            |           | College of Valor | Tier 1 |
+| Cleric     | SRD 5.1   | Life Domain | Tier 1 | 
+|            | PHB 2024  | Life Domain | Tier 1 |
+|            |           | Light Domain | Tier 1 |
+|            | TCoE      | Order Domain | Tier 1 |
+|            |           | Peace Domain | Tier 1 |
+|            | SCGD      | Shadow Domain | Tier 2 |
+|            | PHB 2024  | Trickery Domain | Tier 1 |
+|            | TCoE      | Twilight Domain | Tier 1 |
+|            | PHB 2024  | War Domain | Tier 1 |
 | Ghost?     | TAG?      | x        | Partial              | 
 | Illrigger  | MCDM      | x        | Full                 |
 
