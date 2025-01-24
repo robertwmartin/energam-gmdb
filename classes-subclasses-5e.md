@@ -58,6 +58,18 @@
 | Illrigger  | MCDM      | Architect of Ruin | Tier 2 |
 |            |           | Painkiller | Tier 2 | 
 |            |           | Shadowmaster | Tier 2 |
+| Monk       | PHB 2024  | Warrior of Mercy | Tier 1 | 
+|            |           | Warrior of Shadow | Tier 1 |
+|            |           | Warrior of the Elements | Tier 1 | 
+|            |           | Warrior of the Open Hand | Tier 1 |
+|            | TCoE      | Way of Mercy | Tier 1 |
+|            | SCGD      | Way of the Arcane Hand | Tier 1 |
+|            | TCoE      | Way of the Astral Self | Tier 1 |
+|            | SRD 5.1   | Way of the Open Hand | Tier 1 |
+|            | SCGD      | Way of the Serpent | Tier 1 |
+
+
+
 | Ghost?     | TAG?      | x        | Partial              |
 
 ### Notes on the Class / Subclass table ##
