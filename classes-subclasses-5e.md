@@ -75,6 +75,15 @@
 |            | PHB 2024  | Oath of the Ancients | Tier 1 |
 |            | TCoE      | Oath of the Watchers | Tier 1 | 
 |            | PHB 2024  | Oath of Vengeance | Tier 1 |
+| Ranger     | PHB 2024  | Beast Master | Tier 1 | 
+|            |           | Fey Wanderer | Tier 1 | 
+|            | TCoE      | Fey Wanderer | Tier 1 | 
+|            | PHB 2024  | Gloom Stalker | Tier 1 | 
+|            | SRD 5.1   | Hunter | Tier 1 | 
+|            | PHB 2024  | Hunter | Tier 1 | 
+|            | TCoE      | Swarmkeeper | Tier 1 | 
+|            | SCGD      | Urban Ranger | Tier 2 |
+
 
 
 
