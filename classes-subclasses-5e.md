@@ -1,7 +1,7 @@
 # 5e Classes and Subclasses #
 
 ### How to read the Class / Subclass table ###
-- If a line does not have an entry in the **Class Name** or **Source** column, that indicates it is the same Class or Source as the previous entry
+- If a line does not have an entry in the *Class Name* or *Source* column, that indicates it is the same Class or Source as the previous entry
 
 ### Sources ###
 - AM - refers to the third-party thirty-issue magazine from MCDM, Arcadia (link)
