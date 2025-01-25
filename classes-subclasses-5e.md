@@ -25,6 +25,7 @@
 |            |           | Path of the Zealot | Tier 1 |
 |            | GaW       | Path of the War Chief | NS |
 |            | PHB 2024  | Path of Wild Magic | Tier 1 |
+|            | GGtGH     | Path of the Wrathful Spirit | NS |
 | Bard       | TCoE      | College of Creation | Tier 1 |
 |            | PHB 2024  | College of Dance | Tier 1 |
 |            | SCGD      | College of Doomsayers | Tier 2 | 
@@ -32,6 +33,7 @@
 |            | SCAG      | College of Fochlucan | NS |
 |            | CM        | College of Full Sails | NS | 
 |            | PHB 2024  | College of Glamor | Tier 1 | 
+|            | GGtGH     | College of Legacy | NS |
 |            | SRD 5.1   | College of Lore | Tier 1 |
 |            | PHB 2024  | College of Lore | Tier 1 |
 |            | SCAG      | College of New Olamn | NS | 
@@ -45,14 +47,18 @@
 | Captain    | RoS       | Merchant Master | Tier 2 | 
 |            |           | Outlaw | Tier 2 |
 |            |           | Poet-warrior | Tier 2 | 
-| Cleric     | SCAG      | Arcana Domain | NS |
+| Cleric     | GGtGH     | Ancestor Domain | NS |
+|            | SCAG      | Arcana Domain | NS |
 |            | CM        | Black Salt Domain | NS |
+|            | PHB 2014  | Knowledge Domain | NS |
 |            | SRD 5.1   | Life Domain | Tier 1 | 
 |            | PHB 2024  | Life Domain | Tier 1 |
 |            |           | Light Domain | Tier 1 |
+|            | PHB 2014  | Nature Domain | NS |
 |            | TCoE      | Order Domain | Tier 1 |
 |            |           | Peace Domain | Tier 1 |
 |            | SCGD      | Shadow Domain | Tier 2 |
+|            | PHB 2014  | Tempest Domain | NS |
 |            | PHB 2024  | Trickery Domain | Tier 1 |
 |            | TCoE      | Twilight Domain | Tier 1 |
 |            | PHB 2024  | War Domain | Tier 1 |
@@ -61,7 +67,8 @@
 |            |           | Circle of Stars | Tier 1 |
 |            | SRD 5.1   | Circle of the Land | Tier 1 |
 |            | PHB 2024  | Circle of the Land | Tier 1 |
-|            |           | Circle of the Moon | Tier 1 | 
+|            | GGtGH     | Circle of the Lost | NS |
+|            | PHB 2024  | Circle of the Moon | Tier 1 | 
 |            |           | Circle of the Sea | Tier 1 | 
 |            |           | Circle of the Stars | Tier 1 |
 |            | SCAG      | Circle of Swords | NS |
@@ -74,7 +81,8 @@
 |            | PHB 2024  | Champion | Tier 1 |
 |            | SCGD      | Commander | Tier 2 | 
 |            | PHB 2024  | Eldritch Knight | Tier 1 |
-|            |           | Psi Warrior | Tier 1 |
+|            | GGtGH     | Ether Knight | NS |
+|            | PHB 2024  | Psi Warrior | Tier 1 |
 |            | TCoE      | Psi Warrior | Tier 1 | 
 |            | SCAG      | Purple Dragon Knight | NS |
 |            | TCoE      | Rune Knight | Tier 1 |
@@ -89,9 +97,12 @@
 |            |           | Warrior of Shadow | Tier 1 |
 |            |           | Warrior of the Elements | Tier 1 | 
 |            |           | Warrior of the Open Hand | Tier 1 |
+|            | GGtGH     | Way of Harmonious Spirits | NS | 
 |            | TCoE      | Way of Mercy | Tier 1 |
+|            | PHB 2014  | Way of Shadow | NS | 
 |            | SCGD      | Way of the Arcane Hand | Tier 1 |
 |            | TCoE      | Way of the Astral Self | Tier 1 |
+|            | PHB 2014  | Way of the Four Elements | NS |
 |            | SCAG      | Way of the Long Death | NS | 
 |            | SRD 5.1   | Way of the Open Hand | Tier 1 |
 |            | SCGD      | Way of the Serpent | Tier 1 |
@@ -107,7 +118,8 @@
 |            |           | Wizard | Tier 2 | 
 | Paladin    | SRD 5.1   | Oath of Devotion | Tier 1 | 
 |            | PHB 2024  | Oath of Devotion | Tier 1 | 
-|            |           | Oath of Glory | Tier 1 | 
+|            | GGtGH     | Oath of Exorcism | NS |
+|            | PHB 2024  | Oath of Glory | Tier 1 | 
 |            | TCoE      | Oath of Glory | Tier 1 | 
 |            | SCGD      | Oath of Hexes | Tier 2 | 
 |            | PHB 2024  | Oath of the Ancients | Tier 1 |
@@ -124,8 +136,10 @@
 |            | PHB 2024  | Hunter | Tier 1 | 
 |            | TCoE      | Swarmkeeper | Tier 1 | 
 |            | SCGD      | Urban Ranger | Tier 2 |
+|            | GGtGH     | Vengeance Seeker | NS | 
 | Rogue      | PHB 2024  | Arcane Trickster | Tier 1 | 
-|            |           | Assassin | Tier 1 | 
+|            |           | Assassin | Tier 1 |
+|            | GGtGH     | Haunted Accomplice | NS |
 |            | SCAG      | Mastermind | NS | 
 |            | TCoE      | Phantom | Tier 1 | 
 |            | SCGD      | Smuggler | Tier 2 | 
@@ -146,23 +160,28 @@
 |            | AM        | Child of the Sun Bloodline | NS |
 |            | PHB 2024  | Clockwork Sorcery | Tier 1 | 
 |            | TCoE      | Clockwork Soul | Tier 1 |
+|            | GGtGH     | Deathseer | NS |
 |            | SCGD      | Delerium Soul | Tier 2 |
 |            | SRD 5.1   | Draconic Bloodline | Tier 1 | 
 |            | PHB 2024  | Draconic Sorcery | Tier 1 | 
 |            | SCAG      | Storm Sorcery | NS |
 |            | AM        | Titan Heart | NS | 
+|            | PHB 2014  | Wild Magic | NS |
 |            | PHB 2024  | Wild Magic Sorcery | Tier 1 |
 | Warlock    | PHB 2024  | Archfey Patron | Tier 1 |
 |            |           | Celestial Patron | Tier 1 |
 |            |           | Fiend Patron | Tier 1 | 
 |            |           | Great Old One Patron | Tier 1 | 
+|            | PHB 2014  | The Archfey | NS |
 |            | SCGD      | The Cosmic | Tier 2 |
 |            | TCoE      | The Fathomless | Tier 1 |
 |            | SRD 5.1   | The Fiend | Tier 1 | 
 |            | SCGD      | The Flesh | Tier 2 |
 |            | TCoE      | The Genie | Tier 1 | 
+|            | GGtGH     | The Great Old One | NS |
 |            | AM        | The Horned One | NS | 
 |            | CM        | The Possessed | NS | 
+|            | GGtGH     | The Reaper | NS |
 |            | SCAG      | The Undying | NS |
 | Warrior    | RoS       | Beserker | Tier 2 | 
 |            |           | Duelist | Tier 2 | 
@@ -179,10 +198,17 @@
 |            |           | Evoker | Tier 1 |
 |            |           | Illusionist | Tier 1 | 
 |            | SCGD      | Malfeasant | Tier 2 | 
+|            | GGtGH     | Occult Detection | NS | 
 |            | AM        | Order of Hibernation | NS | 
 |            | TCoE      | Order of Scribes | Tier 1 |
+|            | PHB 2014  | School of Abjuration | NS | 
+|            | PHB 2014  | School of Conjuration | NS |
+|            | PHB 2014  | School of Enchantment | NS |
 |            | SRD 5.1   | School of Evocation | Tier 1 |
+|            | PHB 2014  | School of Illusion | NS |
+|            | PHB 2014  | School of Necromancy | NS |
 |            | CM        | School of Summoning | NS | 
+|            | PHB 2014  | School of Transmutation | NS |
 
 
 
@@ -198,6 +224,7 @@
 - GaW - refers to the Gambits and Warchiefs supplement (link)
 - GGtGH - refers to the third-party supplement from Scoundrel Games Labs, Grizelda's Guide to Ghost Hunting (link)
 - MCDM - refers to the third-party custom class Illrigger from MCDM (link)
+- PHB 2014 - refers to the legacy 2014 version of the Player's Handbook (link)
 - PHB 2024 - refers to the official 2024 version of the Player's Handbook (link)
 - RoS - refers to the third-party supplement Ruins of Symbaroum from Free League (link)
 - SCAG - refers to the official Sword Coast Adventurer's Guide (link)
