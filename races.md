@@ -1,7 +1,7 @@
-# 5e  and Subclasses #
+# 5e Races / Ancestries / Species #
 
-### How to read the Class / Subclass table ###
-- If a line does not have an entry in the *Class Name* or *Source* column, that indicates it is the same Class or Source as the previous entry
+### How to read the Races / Ancestries / Species table ###
+- If a line does not have an entry in the *Source* column, that indicates it is the same Source as the previous entry
 
 ### Sources ###
 - AM - refers to the third-party thirty-issue magazine from MCDM, Arcadia (link)
@@ -26,4 +26,6 @@
 - Not Started - (NS) means the supplement for this Class or Subclass has been purchased but work to implement it in Energam has not yet started
 
 
-| *Class Name* | *Source*  | *Subclass* | *Implementation Level* |
+| *Name* | *Source*  | *Implementation Level* |
+|--------|-----------|------------------------|
+
