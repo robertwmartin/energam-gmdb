@@ -1,9 +1,11 @@
 # 5e Races / Ancestries / Species #
 
-### How to read the Races / Ancestries / Species table ###
+## How to read the Races / Ancestries / Species table ##
+
 - If a line does not have an entry in the *Source* column, that indicates it is the same Source as the previous entry
 
-### Sources ###
+## Sources ##
+
 - AM - refers to the third-party thirty-issue magazine from MCDM, Arcadia (link)
 - CM - refers to the third-party six-issue magazine from The Mad Cartographer, Crucible (link)
 - CR - refers to the Blood Hunter supplement from Matt Mercer of Critical Role (link)
@@ -18,14 +20,13 @@
 - SRD 5.1 - refers to the version 5.1 of the 5e System Reference Document (link)
 - TCoE - refers to the official Tasha's Cauldron of Everything (link)
 
-### Implementation Level ###
+## Implementation Level ##
+
 - Tier 1 - means full character creation and levelling is available, and the Class or Subclass is supported through official channels
 - Tier 2 - means full character creation and levelling is available, but the Class or Subclass is supported through a third-party vendor and not the official channels
 - Tier 3 - means full character creation and levelling is available, but this Class or Subclass is implemented via Energam based on a purchased supplement and not through official channels or a third-party vendor
 - Inc - (Incomplete) means the implemenation is a work in progress. Character creation might be available but levelling may not work or may only work to a certain level, for example
 - Not Started - (NS) means the supplement for this Class or Subclass has been purchased but work to implement it in Energam has not yet started
 
-
 | *Name* | *Source*  | *Implementation Level* |
 |--------|-----------|------------------------|
-
