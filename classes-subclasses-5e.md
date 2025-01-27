@@ -23,9 +23,9 @@
 ## Implementation Level ##
 
 - <span style="color:lightgreen">Tier 1</span> - means full character creation and levelling is available, and the Class or Subclass is supported through official channels
-- <span style="color:yellow"><span style="color:yellow">Tier 2</span></span> - means full character creation and levelling is available, but the Class or Subclass is supported through a third-party vendor and not the official channels
-- <span style="color:orange"><span style="color:orange">Tier 3</span></span> - means full character creation and levelling is available, but this Class or Subclass is implemented via Energam based on a purchased supplement and not through official channels or a third-party vendor
-- Inc - (Incomplete) means the implemenation is a work in progress. Character creation might be available but levelling may not work or may only work to a certain level, for example
+- <span style="color:yellow">Tier 2</span> - means full character creation and levelling is available, but the Class or Subclass is supported through a third-party vendor and not the official channels
+- <span style="color:orange">Tier 3</span> - means full character creation and levelling is available, but this Class or Subclass is implemented via Energam based on a purchased supplement and not through official channels or a third-party vendor
+- <span style="color:lightblue">Inc - (Incomplete)</span> means the implemenation is a work in progress. Character creation might be available but levelling may not work or may only work to a certain level, for example
 - Not Started - (NS) means the supplement for this Class or Subclass has been purchased but work to implement it in Energam has not yet started
 
 | *Class Name* | *Source*  | *Subclass* | *Implementation Level* |
