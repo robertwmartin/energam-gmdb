@@ -25,5 +25,5 @@ Energam supports a variety of official, unofficial, and legacy 5e content.
 - Legacy content (e.g. *SCAG*) available via homebrew support
 - Select third-party and experimental subclasses
 
-👉 [See character options and sourcebooks](./character-options.md)
+👉 [See character options and sourcebooks](./player-menu/character-options.md)
 
