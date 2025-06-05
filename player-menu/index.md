@@ -40,6 +40,6 @@ Welcome to the Enerverse Player Menu! This site is your guide to understanding w
 - [Game Systems Overview](./game-systems.html)
 - [5e Classes and Subclasses](../game-systems/5e/classes-subclasses.html)
 - [5e Races](../game-systems/5e/races.html)
-- [5e House Rules](../game-systems/5e/house-rules.html)
+- [5e House Rules](../game-systems/5e/5e-house-rules.html)
 - [5e Flashback Mechanics](../game-systems/5e/mechanics-flashbacks.html)
 
