@@ -32,7 +32,7 @@ Energam supports a variety of official, unofficial, and legacy 5e content.
 
 ## What World Can I Play In?
 
-[See current offerings](../offerings)
+[See current offerings](../offerings/)
 
 
 
