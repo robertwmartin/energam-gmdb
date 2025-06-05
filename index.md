@@ -5,7 +5,7 @@ Energam is an invitation-only community of storytellers and adventurers who play
 This menu exists to guide you through the core options available to you as a player, whether you're just joining or looking for your next character concept.
 
 > 🧭 **What is Energam?**
-> Energam is our player community. The [Energam Discord](https://discord.gg/YOUR_INVITE) is the central hub for announcements, scheduling, rules clarifications, and memes.
+> Energam is our player community. The Energam Discord is the central hub for announcements, scheduling, rules clarifications, and memes.
 
 ---
 
@@ -13,7 +13,7 @@ This menu exists to guide you through the core options available to you as a pla
 
 We currently use 5e for most sessions, but other systems may be added over time. Campaigns and one-shots vary in tone and rules — browse the current lineup:
 
-👉 [View campaign options](./campaign-options.md)
+👉 [View campaign options](./player-menu/campaign-options.html)
 
 ---
 
@@ -25,5 +25,5 @@ Energam supports a variety of official, unofficial, and legacy 5e content.
 - Legacy content (e.g. *SCAG*) available via homebrew support
 - Select third-party and experimental subclasses
 
-👉 [See character options and sourcebooks](./player-menu/character-options.md)
+👉 [See character options and sourcebooks](./player-menu/character-options.html)
 
