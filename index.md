@@ -13,7 +13,7 @@ This menu exists to guide you through the core options available to you as a pla
 
 We currently use 5e for most sessions, but other systems may be added over time. Campaigns and one-shots vary in tone and rules — browse the current lineup:
 
-👉 [View campaign options](./player-menu/campaign-options.html)
+👉 [View campaign options](./player-menu/index.md)
 
 ---
 
