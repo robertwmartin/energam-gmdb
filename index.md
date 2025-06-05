@@ -1,41 +1,29 @@
-# What is available to you as a player? #
+# 🌌 Welcome to the Enerverse Menu
 
-To start, let's set up a few definitions.
+Energam is an invitation-only community of storytellers and adventurers who play tabletop roleplaying games together — mostly online, often using Foundry VTT, and always in good company.
 
-- *Energam* - Energam is an invitation-only community of individuals interested in playing tabletop roleplaying games (TTRPG).
-- *Energam Discord* - the Discord server that acts as the communication nexus for all things Energam.
-- *Available on Energam* or similar statements - refers to the games that we play in the Energam community.
+This menu exists to guide you through the core options available to you as a player, whether you're just joining or looking for your next character concept.
 
-What this means is simply that once you are part of Energam, you will be able to play in games that are available using the various resources provided to you.
-  
-## Systems ##
+> 🧭 **What is Energam?**
+> Energam is our player community. The [Energam Discord](https://discord.gg/YOUR_INVITE) is the central hub for announcements, scheduling, rules clarifications, and memes.
 
-The only game system currently available on Energam is 5e.
+---
 
-Other game systems will be added in the future. Comment here if there is something you are particularly interested in.
+## 🎲 What Can We Play?
 
-Once other game systems are added, this index page will change to include links to pages for each game system. For now, this page will list what is available for 5e.
+We currently use 5e for most sessions, but other systems may be added over time. Campaigns and one-shots vary in tone and rules — browse the current lineup:
 
-## Official Source Books ##
+👉 [View campaign options](./campaign-options.md)
 
-Official in this context means published by Wizard's of the Coast and with full implementation directly by Foundry VTT staff.
+---
 
-All player options included in *Tasha's Cauldron of Everything* (TCoE) and the *2024 edition of the Player's Handbook* (PHB 2024) are available. In addition, all player options included in the *5e System Reference Document (SRD) version 5.1* are also available. Depending on how SRD 5.2 changes or potentially conflicts with the rest of what is available on Energam, SRD 5.2 will either be added as a separate sourcebook, or it will replace SRD 5.1 entirely.
+## 🧙 What Can I Play As?
 
-The base 5e classes, subclasses, and races / species are potentially repeated in multiple sources that may have slight modifications from the other sources. In cases where there is duplication, you may be able to choose from whichever sourcebook you are interested in.
+Energam supports a variety of official, unofficial, and legacy 5e content.
 
-## Unofficial Source Books ##
+- WotC sources like *TCoE*, *PHB 2024*, and *SRD 5.1*
+- Legacy content (e.g. *SCAG*) available via homebrew support
+- Select third-party and experimental subclasses
 
-Unofficial in this context means published by any publisher but without full implementation directly by Foundry VTT staff. These unofficial source books are supported by the publisher.
+👉 [See character options and sourcebooks](./character-options.md)
 
-## Supplements ##
-
-In addition to TCoE, PHB 2024, and SRD 5.1, Energam has access to other legacy sourcebooks such as *Sword Coast Adventurer's Guide* (SCAG). If there is a class, subclass, race / species, spell, or item in an alternative source that you are interested in, it might be possible to create that in Energam. You are encouraged to pick something from official sources since those sources have teams of people supporting and updating the material, and anything created from legacy sourcebooks will be custom implementations on Energam.
-
-Additional supplements have also been acquired for use on Energam. These provide several additional player options including classes, subclasses, races / species, spells, and items. These should be considered "tier 2" options since the level of support and updates will not be as good as the official sourcebooks listed above.
-
-## Navigation ##
-
-- [Classes and Subclasses](classes-subclasses-5e.md)
-- Races / Species
-- Supplements
