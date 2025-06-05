@@ -27,3 +27,15 @@ Energam supports a variety of official, unofficial, and legacy 5e content.
 
 👉 [See character options and sourcebooks](./player-menu/character-options.html)
 
+
+--- 
+
+## What World Can I Play In?
+
+[See current offerings](../offerings)
+
+
+
+---
+_Last updated 05Jun2022_
+
