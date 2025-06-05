@@ -55,7 +55,7 @@ If you're interested in homebrewing a class, subclass, or race, we encourage col
 
 ## 🧾 Reference List
 
-👉 [View current classes and subclasses](./classes-subclasses-5e.md)  
+👉 [View current classes and subclasses](../player-menu/classes-subclasses-5e.md)  
 (Compiled list of 5e class options available in Energam)
 
 ---
