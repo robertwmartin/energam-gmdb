@@ -4,15 +4,21 @@ Energam supports a broad range of 5e player options — but not all options are 
 
 ---
 
-## 📘 Tier 1: Official WotC Sourcebooks
+- ✅ Tier 1 - means full character creation and levelling is available, and the Class or Subclass is supported through an official module implemented by the Foundry team
+- 🟡 Tier 2 - means full character creation and levelling is available, but the Class or Subclass is supported through a third-party vendor and not the official channels
+- 🟠 Tier 3 - means full character creation and levelling is available, but this Class or Subclass is implemented via Energam based on a purchased supplement and not through official channels or a third-party vendor
 
-These sources are fully supported and maintained in Foundry VTT, either natively or via premium content modules.
+
+## 📘 Tier 1: Official Implementation of WotC Sourcebooks
+
+These sources are fully supported and maintained in Foundry.
 
 Included:
 
 - *Tasha's Cauldron of Everything* (TCoE)
 - *Player’s Handbook 2024 Edition* (PHB 2024)
 - *System Reference Document (SRD) 5.1*
+- *System Reference Document (SRD) 5.2*
 
 🧠 These sources have complete data integration, automation, and support in our game system.
 

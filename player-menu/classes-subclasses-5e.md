@@ -1,16 +1,12 @@
 # 5e Classes and Subclasses
 
-This document lists all currently supported 5e classes and subclasses in the Enerverse. Each entry includes a source reference and the current implementation tier in Foundry VTT.
+Energam supports a broad range of 5e player options — but not all options are equal in terms of support, stability, and availability in Foundry. This guide explains what you can build your character from, based on source tier and availability. It lists all currently supported 5e Classes and Subclasses in the Enerverse. Each entry includes a source reference and the current implementation level in Foundry VTT.
 
-> [🔙 Return to Character Options Summary](./character-options.md)
+### How to read the Class / Subclass table
 
+- If a line does not have an entry in the *Class Name* column, that indicates it is the same Class as the previous entry
 
-
-## How to read the Class / Subclass table ##
-
-- If a line does not have an entry in the *Class Name* or *Source* column, that indicates it is the same Class or Source as the previous entry
-
-## Sources ##
+### Sources
 
 - AM - refers to the third-party thirty-issue magazine from MCDM, Arcadia ([link](https://shop.mcdmproductions.com/collections/front-page-feature/products/arcadia-complete-bundle-issues-1-30))
 - CM - refers to the third-party six-issue magazine from The Mad Cartographer, Crucible ([link](https://cruciblemag.com/))
@@ -24,14 +20,15 @@ This document lists all currently supported 5e classes and subclasses in the Ene
 - SCAG - refers to the official Sword Coast Adventurer's Guide ([link](https://www.dndbeyond.com/sources/dnd/scag))
 - SCGD - refers to Sebastian Crowe's Guide to Drakkenheim ([link](https://ghostfiregaming.com/sc-guide-to-drakkenheim/))
 - SRD 5.1 - refers to the version 5.1 of the 5e System Reference Document ([link](https://dnd.wizards.com/resources/systems-reference-document))
+- SRD 5.2 - refers to the version 5.2 of the 5e System References Document ([link](https://dnd.wizards.com/resources/systems-reference-document))
 - TCoE - refers to the official Tasha's Cauldron of Everything ([link](https://www.dndbeyond.com/sources/dnd/tcoe))
 
-## Implementation Level ##
+### Implementation Level 
 
-- ✅ Tier 1 - means full character creation and levelling is available, and the Class or Subclass is supported through official channels
-- 🟡 Tier 2 - means full character creation and levelling is available, but the Class or Subclass is supported through a third-party vendor and not the official channels
+- ✅ Tier 1 - means full character creation and levelling is available, and the Class or Subclass is supported through an official module implemented by the Foundry team
+- 🟡 Tier 2 - means full character creation and levelling is available, but the Class or Subclass is supported through a third-party vendor and not the official channels. This may cause issues when upgrades to Foundry are implemented
 - 🟠 Tier 3 - means full character creation and levelling is available, but this Class or Subclass is implemented via Energam based on a purchased supplement and not through official channels or a third-party vendor
-- 🔧 Incomplete means the implemenation is a work in progress. Character creation might be available but levelling may not work or may only work to a certain level, for example
+- 🔧 Incomplete means the implementation is a work in progress. Character creation might be available but levelling may not work or may only work to a certain level, for example
 - 🚧 Not Started means the supplement for this Class or Subclass has been purchased but work to implement it in Energam has not yet started
 
 | *Class Name* | *Source*  | *Subclass* | *Implementation Level* |
@@ -254,3 +251,26 @@ This document lists all currently supported 5e classes and subclasses in the Ene
 |            | PHB 2014  | School of Necromancy | 🚧 Not Started |
 |            | CM        | School of Summoning | 🚧 Not Started |
 |            | PHB 2014  | School of Transmutation | 🚧 Not Started |
+
+---
+
+## ❓FAQ
+
+> **Can I use Unearthed Arcana (UA)?**  
+> Generally no, unless pre-approved. UA content is not always balanced or implemented in Foundry.
+
+> **What about older PHB 2014 material?**  
+> If it's not duplicated in the PHB 2024 or SRD 5.1, we may allow it as Tier 2 content, but will likely favor updated wording and mechanics.
+
+> **Can I mix and match sources?**  
+> Yes, within reason. But duplicated subclasses or species with different versions must follow a consistent interpretation — speak to the GM if unsure.
+>
+> **Can I play with experimental or custom content not listed on this page?**
+> If you're interested in homebrewing a class, subclass, or race, we encourage collaboration. Submit ideas to the GM in advance — some may eventually become part of the broader Enerverse offering.
+> 
+---
+
+Need help building your character? Ask in the `#character-help` channel on Discord.
+
+
+> [🔙 Character Options Summary](./character-options.md)
